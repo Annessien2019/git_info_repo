@@ -1,4 +1,5 @@
-# git_info_repo
-This repository gives you the basics I learned in getting started with git & github. Right from the local repository on your machine to your remote repository on git hub. 
+# Python Tutorial Notes
+This repository gives you all the notes i painstakingly took when learning python. It includes examples written in code form and their consequential results, definitions and few of my thoughts on the 
+topics
 
 - Anne Essien
